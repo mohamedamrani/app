@@ -80,6 +80,6 @@
         <!-- Footer-->
             <?php include("footer.php"); ?>
 
-    </body>
+    </boy>
 
 </html>
